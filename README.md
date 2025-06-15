@@ -4,7 +4,6 @@ Welcome to my portfolio of original 3D printable designs. This repository showca
 
 This repository aims to demonstrates my skills in:
 
-- Mechanical design for functional parts
 - Design for Manufacture Principles (DFM) with 3D printing in mind
 - Iterative prototyping and problem solving
 - Tolerance design and precision modelling
